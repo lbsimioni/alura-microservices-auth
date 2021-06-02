@@ -1,4 +1,4 @@
-package br.com.alura.microservices.auth.adapters;
+package br.com.alura.microservices.auth.configs;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

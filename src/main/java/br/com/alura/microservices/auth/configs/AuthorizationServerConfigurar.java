@@ -1,4 +1,4 @@
-package br.com.alura.microservices.auth.adapters;
+package br.com.alura.microservices.auth.configs;
 
 import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
